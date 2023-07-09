@@ -1,0 +1,34 @@
+h1{
+color:"white"
+background-color:#4682b4;
+}
+
+h2{
+font-size:25px;
+border-bottom:3px solid #6495ed;
+padding-bottom:5px;
+margin-top:12px;
+margin-bottom:5px;
+}
+
+.h2-list{
+text-align:start;
+}
+
+.h3-list{
+text-list:start;
+border-bottom:3px solid #6495ed;
+padding-bottom:5px;
+margin-top:12px;
+margin-bottom:5px;
+}
+
+
+h3{
+font-size:25px
+}
+
+.img1{
+width:60px;
+height:100px;
+}
